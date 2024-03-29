@@ -37,7 +37,6 @@ class Calculator:
             self.result_var.set("")
         else:
             self.result_var.set(self.result_var.get() + button)
-
 if __name__ == "__main__":
     root = tk.Tk()
     my_calculator = Calculator(root)
