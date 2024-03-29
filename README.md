@@ -1,4 +1,4 @@
 # calculator
-Just a basic calculator project.
+Just a basic calculator.
 
 Written in Python
